@@ -1,0 +1,68 @@
+[
+    {
+        "name" : "Cessna 152",
+        "type" : "piston",
+        "cruise" : 123,
+        "range" : 415,
+        "ceiling" : 14700,
+        "mtow" : 1675,
+        "seats" : 2,
+        "edition" : "standard",
+        "avionics" : "gauges"
+    },
+    {
+        "name" : "CubCrafters XCub",
+        "type" : "piston",
+        "cruise" : 126,
+        "range" : 695,
+        "ceiling" : 14000,
+        "mtow" : 2300,
+        "seats" : 2,
+        "edition" : "standard",
+        "avionics" : "glass"
+    },
+    {
+        "name" : "Cirrus SR22",
+        "type" : "piston",
+        "cruise" : 183,
+        "range" : 1049,
+        "ceiling" : 17500,
+        "mtow" : 3400,
+        "seats" : 5,
+        "edition" : "premium",
+        "avionics" : "glass"
+    },
+    {
+        "name" : "Daher TBM 930",
+        "type" : "turboprop",
+        "cruise" : 330,
+        "range" : 1730,
+        "ceiling" : 31000,
+        "mtow" : 7394,
+        "seats" : 6,
+        "edition" : "standard",
+        "avionics" : "glass"
+    },
+    {
+        "name" : "Airbus A320neo",
+        "type" : "jetliner",
+        "cruise" : 450,
+        "range" : 3401,
+        "ceiling" : 39800,
+        "mtow" : 174165,
+        "seats" : 194,
+        "edition" : "standard",
+        "avionics" : "glass"
+    },
+    {
+        "name" : "",
+        "type" : "",
+        "cruise" : 0,
+        "range" : 0,
+        "ceiling" : 0,
+        "mtow" : 0,
+        "seats" : 0,
+        "edition" : "",
+        "avionics" : ""
+    }
+]
